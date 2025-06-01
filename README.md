@@ -49,6 +49,8 @@ A: Yes, [FLUX.1 Kontext](https://kontextflux1.com/) [dev] is available in a priv
 [FLUX.1 Kontext](https://kontextflux1.com/) is highly recommended for professionals and enthusiasts seeking a versatile and efficient [image generator](https://kontextflux1.com/) and editing tool. Its unique capabilities in handling both text and image inputs, maintaining character consistency, and performing local edits make it an invaluable asset in various creative and professional workflows.
 
 For more information and to get started, visit the official [FLUX.1 Kontext](https://kontextflux1.com/) page: [https://bfl.ai/models/flux-kontext](https://bfl.ai/models/flux-kontext)
+[Github](https://github.com/black-forest-labs/flux) 
+
 
 ---
 
